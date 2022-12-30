@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Mathspy <mathspy257@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.1.30",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-react-helmet": "^3.0.9",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
